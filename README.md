@@ -1,6 +1,6 @@
 # Hi, I'm Alyne 👋
 
-**Senior Project & Operations Manager** at Clearly Aligned, an education and membership organization for dentists and orthodontists. ClickUp expert, automation builder, and the person who asks "why does this happen?" one more time than everyone else.
+**Senior Project & Operations Manager** at Clearly Aligned, an education and membership organization for dentists. ClickUp expert, automation builder, and the person who asks "why does this happen?" one more time than everyone else.
 
 I don't spend much time wishing things were less chaotic. I'd rather understand why the chaos exists in the first place. I need to understand how a system works before I can see how it could work better.
 
